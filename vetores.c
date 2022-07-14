@@ -14,4 +14,5 @@ int main()
     printf("%p\n", *x);
     printf("%p\n", y);
     printf("vetores");
+    a
 }
